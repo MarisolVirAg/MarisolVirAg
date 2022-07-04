@@ -1,0 +1,25 @@
+{
+  "id": "08bef60d-956a-4bc8-a8b9-ec74567b06d2",
+  "name": "SolicitudProdACompras",
+  "publisher": "MVA",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 70000,
+      "to": 70149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
